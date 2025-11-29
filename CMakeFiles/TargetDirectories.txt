@@ -1,0 +1,5 @@
+C:/Users/User/Desktop/JsonTools/build/CMakeFiles/JsonTools.dir
+C:/Users/User/Desktop/JsonTools/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/JsonTools/build/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/JsonTools/build/CMakeFiles/JsonTools_autogen_timestamp_deps.dir
+C:/Users/User/Desktop/JsonTools/build/CMakeFiles/JsonTools_autogen.dir
