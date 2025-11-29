@@ -438,12 +438,9 @@ CMakeFiles/JsonTools.dir/main.cpp.obj: \
  D:/Qt/6.8.2/mingw_64/include/QtGui/qguiapplication_platform.h \
  C:\Users\User\Desktop\JsonTools\json_parser.hpp \
  D:/Tools/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/iostream \
- D:/Qt/6.8.2/mingw_64/include/QtWidgets/QPushButton \
- D:/Qt/6.8.2/mingw_64/include/QtWidgets/qpushbutton.h \
- D:/Qt/6.8.2/mingw_64/include/QtWidgets/qabstractbutton.h \
- D:/Qt/6.8.2/mingw_64/include/QtWidgets/QTreeWidget \
- D:/Qt/6.8.2/mingw_64/include/QtWidgets/qtreewidget.h \
- D:/Qt/6.8.2/mingw_64/include/QtWidgets/qtreeview.h \
+ D:/Qt/6.8.2/mingw_64/include/QtWidgets/QTableWidget \
+ D:/Qt/6.8.2/mingw_64/include/QtWidgets/qtablewidget.h \
+ D:/Qt/6.8.2/mingw_64/include/QtWidgets/qtableview.h \
  D:/Qt/6.8.2/mingw_64/include/QtWidgets/qabstractitemview.h \
  D:/Qt/6.8.2/mingw_64/include/QtWidgets/qabstractscrollarea.h \
  D:/Qt/6.8.2/mingw_64/include/QtWidgets/qframe.h \
@@ -460,6 +457,19 @@ CMakeFiles/JsonTools.dir/main.cpp.obj: \
  D:/Qt/6.8.2/mingw_64/include/QtWidgets/qtabbar.h \
  D:/Qt/6.8.2/mingw_64/include/QtWidgets/qtabwidget.h \
  D:/Qt/6.8.2/mingw_64/include/QtWidgets/qrubberband.h \
+ D:/Qt/6.8.2/mingw_64/include/QtWidgets/QPushButton \
+ D:/Qt/6.8.2/mingw_64/include/QtWidgets/qpushbutton.h \
+ D:/Qt/6.8.2/mingw_64/include/QtWidgets/qabstractbutton.h \
+ D:/Qt/6.8.2/mingw_64/include/QtWidgets/QTextEdit \
+ D:/Qt/6.8.2/mingw_64/include/QtWidgets/qtextedit.h \
+ D:/Qt/6.8.2/mingw_64/include/QtGui/qtextdocument.h \
+ D:/Qt/6.8.2/mingw_64/include/QtGui/qtextoption.h \
+ D:/Qt/6.8.2/mingw_64/include/QtGui/qtextcursor.h \
+ D:/Qt/6.8.2/mingw_64/include/QtGui/qtextformat.h \
+ D:/Qt/6.8.2/mingw_64/include/QtGui/qpen.h \
+ D:/Qt/6.8.2/mingw_64/include/QtWidgets/QTreeWidget \
+ D:/Qt/6.8.2/mingw_64/include/QtWidgets/qtreewidget.h \
+ D:/Qt/6.8.2/mingw_64/include/QtWidgets/qtreeview.h \
  D:/Qt/6.8.2/mingw_64/include/QtWidgets/qtreewidgetitemiterator.h \
  D:/Qt/6.8.2/mingw_64/include/QtWidgets/QMainWindow \
  D:/Qt/6.8.2/mingw_64/include/QtWidgets/qmainwindow.h \
